@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Master");
+    printf("Master->br2");
     return 0;
 }
